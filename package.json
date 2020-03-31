@@ -1,0 +1,9 @@
+{
+  "name": "fullcalendar",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "4.0.0-alpha.6",
+    "bootstrap4-datetimepicker": "^5.2.3",
+    "fullcalendar": "^3.10.1"
+  }
+}
